@@ -5,7 +5,7 @@
 * typescript
 * ts-node
 * yarn
-* an Actuel branded Christmas Light Stript with
+* an Actuel branded Christmas Light Stript with RGB diodes (no white-only diodes!)
 
 ## Run
 
