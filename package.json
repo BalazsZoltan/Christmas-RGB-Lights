@@ -5,7 +5,7 @@
   "license": "MIT",
   "scripts": {
     "start": "ts-node ./src/main.ts",
-    "unfuck": "ts-node ./src/defucker.ts"
+    "unstuck": "ts-node ./src/destucker.ts"
   },
   "devDependencies": {
     "@types/node": "^14.14.14",

@@ -213,7 +213,7 @@ export function buildPacket(packet: Packet): Uint8Array {
             return buildSteadyColorPacket(packet)
     }
 
-    return null
+    return new Uint8Array(0)
 }
 
 //#endregion
