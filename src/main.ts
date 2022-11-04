@@ -124,7 +124,7 @@ async function main() {
     destroy() */
 }
 
-main().catch(() => { console.error("mimimi") })
+main().catch(() => { console.error("An error has occured!") })
 
 //#region packets.ts
 

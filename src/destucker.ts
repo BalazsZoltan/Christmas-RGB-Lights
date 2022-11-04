@@ -12,7 +12,7 @@ async function main() {
     await device.connect()
 
     await device.disconnect()
-    console.log("Unfucked.")
+    console.log("Bluetooth connection is no longer stuck.")
     destroy()
 }
 
